@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963637126653",
+    "project_id": "olontss",
+    "storage_bucket": "olontss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963637126653:android:26503c313163dae38de594",
+        "android_client_info": {
+          "package_name": "com.itsolonts.olonts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIr1oIINhI8BfhgrpMDO0s91HQj0hvDtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
